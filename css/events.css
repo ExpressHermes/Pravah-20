@@ -1,0 +1,121 @@
+.overlay3 {
+    position: fixed;
+    /* Sit on top of the page content */
+    display: none;
+    /* Hidden by default */
+    width: 100%;
+    /* Full width (cover the whole page) */
+    height: 100%;
+    /* Full height (cover the whole page) */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+    /* Black background with opacity */
+    z-index: 9999999;
+    /* Specify a stack order in case you're using a different order for other elements */
+    cursor: pointer;
+    /* Add a pointer on hover */
+}
+
+.rulespopup {
+	overflow: auto;
+}
+
+.rulespopup,
+.regpopup {
+    height: 80%;
+	background-size: contain;
+    border-radius: 0.5%;
+    margin-top: 60px;
+}
+
+.regpopup img {
+	width: 100%;
+}
+
+.rulespopup {
+	background-image: url('../images/rulesbg.jpg');
+}
+
+.fa-times {
+	position: absolute;
+}
+
+.regpopup a {
+	position: absolute;
+	top:65%;
+	left:50%;
+    font-size: 30px;
+	margin-left: -115px;
+}
+
+.regpopup a:hover {
+	text-decoration: underline !important;
+}
+
+@media screen and (max-width:990px) {
+    .rulespopup, 
+	.regpopup {
+        width:100%;
+    }
+	
+	.fa-times {
+	right: 10px;
+	}
+
+}
+
+@media screen and (min-width:992px) {
+    .rulespopup,
+	.regpopup {
+        margin-left:200px;
+        margin-right:200px;
+    }
+	
+	.fa-times {
+	right: 210px;
+	}
+
+}
+
+.rulespopup .col-md-12,
+.regpopup .col-md-12 {
+    text-align: center;
+    padding: 40px 0px 0px 0px;
+}
+
+.rulespopup h1,
+.regpopup h1 {
+    font-family: 'Dancing Script', cursive;
+    color: #357da4;
+}
+
+.rulespopup h3,
+.regpopup h3 {
+    padding: 0px 20px;
+    font-family: 'pacifico', cursive;
+    color:aliceblue;
+}
+
+.rulespopup ul,
+.regpopup {
+    list-style-type: disc;
+}
+
+.rulespopup li,
+.regpopup {
+    font-family: 'Acme', sans-serif;
+    font-size:20px;
+    padding:10px 0px 0px 0px;
+	color: aliceblue;
+}
+
+.eventimage {
+	padding: 15px;
+}
+
+.eventimage img {
+	width: 100%;
+}
