@@ -7,7 +7,7 @@
 }*/
 
 
-@import url('https://fonts.googleapis.com/css?family=Alegreya');
+@import url('https://fonts.googleapis.com/css?family=Alegreya:400, 700&display=swap');
 
 
 row p {
@@ -38,7 +38,8 @@ row p {
 }*/
 
 .sf-menu a {
-	font-family: 'Berkshire Swash', cursive;
+	font-family: 'Alegreya', cursive;
+	font-weight: 500;
 }
 
 .icon-linkedin3:hover {
@@ -104,12 +105,12 @@ footer a {
 }
 
 body {
-	font-family: "Arapey", serif;
+	font-family: "Alegreya", serif;
 	line-height: 1.8;
 	font-size: 16px;
 	background: #fff;
 	color: #848484;
-	font-weight: 300;
+	font-weight: 400;
 	overflow-x: hidden;
 }
 
@@ -325,7 +326,7 @@ figure {
 }
 
 .sf-menu a {
-	color: rgba(255, 255, 255, 0.5);
+	color: rgba(255, 255, 255);
 	padding: 0.75em 1em !important;
 	font-weight: normal;
 	border-left: none;
@@ -335,7 +336,7 @@ figure {
 	zoom: 1;
 	font-size: 16px;
 	border-bottom: none !important;
-	font-weight: 300;
+	font-weight: 700;
 }
 
 .sf-menu a:hover,
