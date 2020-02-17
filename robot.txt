@@ -1,5 +1,5 @@
 User-Agent: *
 Disallow: 
-Allow: /aktu.ac.in/pravah
+Allow: pravah.aktu.ac.in/
 
-Sitemap: http://aktu.ac.in/pravah/sitemap.xml
+Sitemap:https://pravah.aktu.ac.in/sitemap.xml
