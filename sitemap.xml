@@ -1,48 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 	<url>
-		<loc>https://aktu.ac.in/pravah/</loc>
-		<lastmod>2018-03-05T06:30:32+00:00</lastmod>
+		<loc>https://pravah.aktu.ac.in/</loc>
+		<lastmod>2020-02-17T16:32:06+00:00</lastmod>
 		<priority>1.00</priority>
 	</url>
 	<url>
-		<loc>https://aktu.ac.in/pravah/Events.html</loc>
-		<lastmod>2018-03-03T04:09:38+00:00</lastmod>
-		<priority>0.80</priority>
-	</url>
-	<url>
-		<loc>https://aktu.ac.in/pravah/schedule.html</loc>
-		<lastmod>2018-03-01T12:00:18+00:00</lastmod>
-		<priority>0.80</priority>
-	</url>
-	<url>
-		<loc>https://aktu.ac.in/pravah/sponsor.html</loc>
-		<lastmod>2018-03-05T06:25:42+00:00</lastmod>
-		<priority>0.80</priority>
-	</url>
-	<url>
-		<loc>https://aktu.ac.in/pravah/organizer.html</loc>
-		<lastmod>2018-03-01T12:00:18+00:00</lastmod>
-		<priority>0.80</priority>
-	</url>
-	<url>
-		<loc>https://aktu.ac.in/pravah/contact.html</loc>
-		<lastmod>2018-03-01T12:00:18+00:00</lastmod>
-		<priority>0.80</priority>
-	</url>
-	<url>
-		<loc>https://aktu.ac.in/pravah/pdf/Notice.2017.pdf</loc>
-		<lastmod>2018-03-01T12:00:18+00:00</lastmod>
-		<priority>0.80</priority>
-	</url>
-	<url>
-		<loc>https://aktu.ac.in/pravah/index.html</loc>
-		<lastmod>2018-03-05T06:30:32+00:00</lastmod>
+		<loc>https://pravah.aktu.ac.in/index.html</loc>
+		<lastmod>2020-02-17T16:32:06+00:00</lastmod>
 		<priority>1.00</priority>
-
 	</url>
-
-
+	<url>
+		<loc>https://pravah.aktu.ac.in/Events.html</loc>
+		<lastmod>2020-02-17T16:32:06+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://pravah.aktu.ac.in/schedule.html</loc>
+		<lastmod>2020-02-17T16:32:06+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://pravah.aktu.ac.in/sponsor.html</loc>
+		<lastmod>2020-02-17T16:32:06+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://pravah.aktu.ac.in/organizer.html</loc>
+		<lastmod>2020-02-17T16:32:06+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://pravah.aktu.ac.in/contact.html</loc>
+		<lastmod>2020-02-17T16:32:06+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>
+		https://pravah.aktu.ac.in/pdf/General%20guidlines%20for%20participants.pdf
+		</loc>
+		<lastmod>2020-02-17T16:32:06+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://pravah.aktu.ac.in/pdf/AKTU_Rulebook.pdf</loc>
+		<lastmod>2020-02-17T16:32:06+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
 </urlset>
