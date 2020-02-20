@@ -1763,6 +1763,10 @@ figure {
 	/* text-transform: uppercase; */
   }
 
+  .card-title a{
+	  color: white !important;
+  }
+
   .card .card-image {
 	position: relative;
 	overflow: hidden;
